@@ -1,0 +1,112 @@
+{
+    "dir": "ltr",
+    "lang": "en",
+    "name": "Michael Honer",
+    "scope": "/",
+    "display": "fullscreen",
+    "start_url": "https://michaelhoner.github.io/",
+    "short_name": "Michael",
+    "theme_color": "transparent",
+    "description": "",
+    "orientation": "any",
+    "background_color": "transparent",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/images/1b84e1d6-9d09-59b6-8922-14a449bdfa00.webPlatform.png",
+            "sizes": "44x44",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/41cc44ef-10d3-6640-84c1-e2cad8e0e86b.webPlatform.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/windows10/SplashScreen.scale-200.png.png",
+            "sizes": "1240x600",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/c1b2b819-d4af-97a7-70a2-e4e4aa1fa4ae.webPlatform.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/8ffba3e1-d589-50ba-2a47-83844fa2df0d.webPlatform.png",
+            "sizes": "150x150",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/ec2a79d3-0a6c-ac9a-bb78-4ae8d3a8596f.webPlatform.png",
+            "sizes": "88x88",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/fe68c78e-1a38-8963-b10a-c326d467e51f.webPlatform.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/aa226459-3a70-0917-a9ce-df9098417927.webPlatform.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/2c9335c5-9c3d-d48d-a1a4-2509b3f7dc21.webPlatform.png",
+            "sizes": "620x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/afad7c2e-7b45-3d2f-b5cf-515681d88824.webPlatform.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/5df83864-b5fe-96b9-194f-5d4419a3ba5c.webPlatform.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/d3564bb1-813f-7d39-1d7a-bb0853b7bda0.webPlatform.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/c0804510-3111-fa05-24d1-5757ac51b3df.webPlatform.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/3366de94-b394-a28b-9866-4d8aee13af35.webPlatform.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/ios/ios-appicon-1024-1024.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/19ba7df5-4718-24b5-1c8d-3f80fed78ef4.webPlatform.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/799b92b2-ba7a-420e-2a5c-f3c33b610d09.webPlatform.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/50413440-dab3-38f3-88e4-e3f929f5c6f3.webPlatform.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/f37d29c6-750d-c29d-4fa8-e73b293f9027.webPlatform.png",
+            "sizes": "76x76",
+            "type": "image/png"
+        }
+    ]
+}
